@@ -1,1 +1,0 @@
-export { default as ElementalCombinationsTable } from './ElementalCombinationsTable'

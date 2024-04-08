@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-import { sizes } from "../../../styles";
+import { sizes } from "@styles";
 
 export default StyleSheet.create({
   wrapper: {
