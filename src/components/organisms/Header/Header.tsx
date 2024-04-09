@@ -1,5 +1,5 @@
 import { View } from "react-native";
-import { Title } from "@atoms/Typography";
+import { Title } from "@atoms";
 import styles from "./style";
 
 export default function Header() {

@@ -17,7 +17,7 @@ export function Small({
 
 const defaultStyles = StyleSheet.create({
   small: {
-    fontFamily: "Roboto, sans-serif",
+    fontFamily: "Roboto",
     fontSize: 12,
   },
 });
